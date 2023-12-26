@@ -1,0 +1,7 @@
+Flask
+gensim
+PyMuPDF
+joblib
+tensorflow
+Flask-Cors
+scikit-learn
